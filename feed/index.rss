@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Walnut Valley Kiwanis Club</title>
+	<atom:link href="http://wvkiwanisdev.test/feed/" rel="self" type="application/rss+xml" />
+	<link>http://wvkiwanisdev.test</link>
+	<description>Serving The Children of The World</description>
+	<lastBuildDate>Mon, 20 Aug 2018 10:33:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>http://wvkiwanisdev.test/contents/data/2018/07/cropped-kiwanis-logo-fav-edited1-32x32.png</url>
+	<title>Walnut Valley Kiwanis Club</title>
+	<link>http://wvkiwanisdev.test</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>http://wvkiwanisdev.test/2018/07/16/hello-world/</link>
+		<comments>http://wvkiwanisdev.test/2018/07/16/hello-world/#comments</comments>
+		<pubDate>Mon, 16 Jul 2018 01:22:32 +0000</pubDate>
+		<dc:creator><![CDATA[test]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://wvkiwanisdev.test/</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://wvkiwanisdev.test/2018/07/16/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
